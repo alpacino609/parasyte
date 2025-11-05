@@ -1,0 +1,22 @@
+# macOS specific files
+**/.DS_Store
+## common things
+**/.env
+**/*.log
+**/.vscode/*
+**/.idea/
+**/*.tsbuildinfo
+
+## ai_imitation part on vscode
+## android part on kotlin, android studio
+## backend on typescript, nestjs, vscode
+backend/dist/
+backend/node_modules/
+backend/test
+backend/**/
+## db_sqlite on sqlite, dbeaver
+## ios on swiftUi, xcode
+## web on typescript, react, vscode
+web/node_modules/
+web/build/
+web/dist/
